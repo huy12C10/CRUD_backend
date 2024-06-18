@@ -1,0 +1,2 @@
+//method post để đẩy data về phía server
+//method get để lấy data về phía client//
